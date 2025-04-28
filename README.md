@@ -16,7 +16,7 @@ Generate summaries using NLP techniques (CBOW, Skip-Gram, Graph-based methods).
 Evaluate using Naive Bayes and Decision Trees classifiers, and ROUGE metrics.
 
 ### Plan:
-Week1 - Initial Setup and Data Collection/Preprocessing
-Week2 - Feature Extraction & Model Preparation
-Week3 - Model Training and Evaluation
-Week4 - Integration, Final Testing, and Documentation
+* Week1 - Initial Setup and Data Collection/Preprocessing
+* Week2 - Feature Extraction & Model Preparation
+* Week3 - Model Training and Evaluation
+* Week4 - Integration, Final Testing, and Documentation
