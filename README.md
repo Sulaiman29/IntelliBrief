@@ -1,4 +1,4 @@
-# IntelliBrief
+# IntelliBrief News Summarization Project
 The objective of our project is to develop a robust news summarization system capable of
 efficiently processing large volumes of news articles and producing concise and coherent
 summaries. By combining data science techniques with NLP algorithms, we aim to create a
@@ -15,7 +15,7 @@ Generate summaries using NLP techniques (CBOW, Skip-Gram, Graph-based methods).
 
 Evaluate using Naive Bayes and Decision Trees classifiers, and ROUGE metrics.
 
-Plan:
+### Plan:
 Week1 - Initial Setup and Data Collection/Preprocessing
 Week2 - Feature Extraction & Model Preparation
 Week3 - Model Training and Evaluation
