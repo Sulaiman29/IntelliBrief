@@ -7,7 +7,7 @@ informative summaries.
 Team Members: Muhammad Sulaiman Javed, MD Murad Alahi Misu, Syed Fakhar Abbas Naqvi, Zeshan Hyder
 
 ### Project Goals
-Create a robust news summarization system using NLP and Data Science.
+Create a news summarization system using NLP and Data Science.
 
 Classify news articles into 5 categories (Business, Entertainment, Politics, Sport, Tech).
 
